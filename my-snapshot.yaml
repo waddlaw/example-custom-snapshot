@@ -2,4 +2,4 @@ resolver: lts-10.0
 name: waddlaw-1.0
 
 packages:
-  - hakyll-shakespeare-0.1.0.0.2
+  - hakyll-shakespeare-0.1.0.0.3
